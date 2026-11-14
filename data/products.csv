@@ -1,0 +1,9 @@
+product_id,product_name,category,unit_price,stock_on_hand,lead_time_days
+101,Laptop Stand,Accessories,29.0,39,5
+102,Wireless Mouse,Accessories,22.0,17,7
+103,USB-C Hub,Electronics,39.0,46,6
+104,Mechanical Keyboard,Electronics,74.0,12,9
+105,Monitor Arm,Office,89.0,32,10
+106,Webcam,Electronics,48.0,15,7
+107,Notebook Pack,Office,11.0,50,4
+108,Desk Lamp,Office,45.0,24,8

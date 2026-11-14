@@ -1,0 +1,4 @@
+model,validation_mae_units,test_mae_units,test_wape_percent
+7-day rolling mean,,3.015,32.33
+Random Forest,2.502,2.638,28.29
+Gradient Boosting,2.475,2.561,27.46

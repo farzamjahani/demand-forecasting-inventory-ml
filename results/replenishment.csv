@@ -1,0 +1,9 @@
+product_id,product_name,stock_on_hand,lead_time_days,predicted_daily_demand,daily_std,safety_stock,reorder_point,suggested_order_qty
+101,Laptop Stand,39,5,6.85,3.38,13,48,9
+102,Wireless Mouse,17,7,14.55,4.33,19,121,104
+103,USB-C Hub,46,6,6.06,2.91,12,49,3
+104,Mechanical Keyboard,12,9,4.39,2.09,11,51,39
+105,Monitor Arm,32,10,3.24,2.24,12,45,13
+106,Webcam,15,7,6.22,3.33,15,59,44
+107,Notebook Pack,50,4,15.34,5.9,20,82,32
+108,Desk Lamp,24,8,6.06,2.94,14,63,39
